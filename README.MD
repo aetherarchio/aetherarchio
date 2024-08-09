@@ -1,1 +1,3 @@
-![aetherarchio-720.png](resources/aetherarchio-720.png)
+<div align="center">
+![aetherarchio-flat-banner-mono](resources/aetherarchio-flat-banner-mono.png)
+</div>
