@@ -1,6 +1,6 @@
 <div align="center">
 
-![aetherarchio-flat-banner-mono](resources/aetherarchio-flat-banner-mono.png)
+![aetherarchio-flat-banner-mono-2](resources/aetherarchio-flat-banner-mono-2.png)
 
 ![aetherarchio-text](resources/aetherarchio-text.png)
 
